@@ -4,7 +4,7 @@
  
  Bu sayfa içerisinde 
  * derslere ait reporistoryler 
- * *çdevler
+ * *ödevler
  * *duyurular
  * paylaşılmaktadır 
 
