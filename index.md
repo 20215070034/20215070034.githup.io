@@ -1,7 +1,7 @@
-#  **merhaba** 
-## **_BEN Buse DENİZ_**
+#  **-MERHABA** 
+## **BEN Buse DENİZ_**
 
-Bu sayfayı okuduğum bölüm hakkında sizlere bilgi vermek için açtım.
+#### Bu sayfayı okuduğum bölüm hakkında sizlere bilgi vermek için açtım.
 
 
 _ÖZGEÇMİŞ_
