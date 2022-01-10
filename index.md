@@ -1,7 +1,6 @@
-# OSMANİYE KORKUT ATA ÜNİVERSİTESİ
-## YÖNETİM BİLİŞİM SİSTEMLERİ BÖLÜMÜ
-### GİTHUP SAYFASIDIR 
- 
+# merhaba 
+
+
  Bu sayfa içerisinde 
  * derslere ait reporistoryler 
  * *ödevler
